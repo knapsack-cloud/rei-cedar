@@ -1,0 +1,36 @@
+{
+  "id": "chip",
+  "title": "Chip",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-5VzqCs3onJ",
+      "title": "CdrChip",
+      "path": "../../dist/src/components/chip/CdrChip.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": "../../src/components/chip/CdrChip.vue"
+      },
+      "demoIds": ["y7HTUXsHuX"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-5VzqCs3onJ"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "y7HTUXsHuX",
+  "title": "Main",
+  "type": "data",
+  "patternId": "chip",
+  "templateId": "vue-5VzqCs3onJ",
+  "data": {
+    "props": {},
+    "slots": {
+      "default": [
+        {
+          "type": "text",
+          "text": "i r chip"
+        }
+      ]
+    }
+  }
+}

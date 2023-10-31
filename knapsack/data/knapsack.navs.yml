@@ -4,5 +4,17 @@ byId:
     name: Button
     parentId: root
     path: /pattern/button
+  card:
+    id: card
+    name: Card
+    parentId: root
+    path: /pattern/card
+  chip:
+    id: chip
+    name: Chip
+    parentId: root
+    path: /pattern/chip
 order:
   - button
+  - card
+  - chip

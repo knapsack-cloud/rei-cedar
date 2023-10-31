@@ -1,0 +1,20 @@
+{
+  "id": "aXX4u1NXJC",
+  "title": "Main",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "vue-DFp__mlTWK",
+  "data": {
+    "props": {
+      "tag": "article"
+    },
+    "slots": {
+      "default": [
+        {
+          "type": "text",
+          "text": "This is a card content slot."
+        }
+      ]
+    }
+  }
+}
