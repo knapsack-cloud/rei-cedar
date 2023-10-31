@@ -1,0 +1,47 @@
+{
+  "id": "button",
+  "title": "Button",
+  "description": "",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-mOX8NDqIwK",
+      "title": "Button",
+      "path": "../../dist/src/components/button/CdrButton.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "slots": {
+          "default": {
+            "title": "default"
+          }
+        },
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "description": "",
+          "type": "object",
+          "required": [],
+          "properties": {}
+        }
+      },
+      "demoIds": ["K1sDJr0vT7"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-mOX8NDqIwK"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": []
+    }
+  ]
+}

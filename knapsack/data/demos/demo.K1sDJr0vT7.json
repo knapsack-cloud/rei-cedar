@@ -1,0 +1,24 @@
+{
+  "id": "K1sDJr0vT7",
+  "title": "Main",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "vue-mOX8NDqIwK",
+  "data": {
+    "props": {},
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "i r button"
+        }
+      ],
+      "default": [
+        {
+          "type": "text",
+          "text": "i r button"
+        }
+      ]
+    }
+  }
+}
