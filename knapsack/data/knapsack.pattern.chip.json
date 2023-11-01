@@ -1,7 +1,7 @@
 {
   "id": "chip",
   "title": "Chip",
-  "description": "",
+  "description": "Allows people to make selections, filter content, or trigger actions",
   "statuses": {},
   "templates": [
     {
@@ -30,7 +30,13 @@
     {
       "id": "overview",
       "title": "Overview",
-      "blockIds": []
+      "blockIds": [
+        "HzdDreM8kw",
+        "ZxhLB7XhUB",
+        "n3YGwYMY9g",
+        "nZePfcfwbA",
+        "B-3olkg-Gv"
+      ]
     }
   ]
 }

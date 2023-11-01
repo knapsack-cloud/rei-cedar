@@ -1,0 +1,18 @@
+{
+  "id": "B-3olkg-Gv",
+  "blockType": "shortcut-tiles",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "-oIJHl6RgZ",
+        "title": "Related Components",
+        "link": {
+          "name": "Button",
+          "path": "/pattern/button"
+        },
+        "description": "Button"
+      }
+    ]
+  },
+  "size": null
+}
