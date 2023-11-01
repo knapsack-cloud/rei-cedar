@@ -1,0 +1,21 @@
+{
+  "id": "El_3IM6PnO",
+  "blockType": "pattern-template-block",
+  "data": {
+    "hideControls": false,
+    "playgroundUi": {
+      "allowResizing": false,
+      "showSchemaForm": false,
+      "showCodeSnippet": true,
+      "demoSize": "landscape"
+    },
+    "allowResizing": false,
+    "showCodeSnippet": true,
+    "showSchemaForm": false,
+    "demoSize": "landscape",
+    "patternId": "card",
+    "templateId": "vue-DFp__mlTWK",
+    "demoId": "aXX4u1NXJC"
+  },
+  "size": null
+}

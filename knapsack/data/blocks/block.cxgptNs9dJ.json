@@ -1,0 +1,22 @@
+{
+  "id": "cxgptNs9dJ",
+  "blockType": "callout",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "When to use"
+            }
+          ]
+        }
+      ]
+    },
+    "type": "success"
+  },
+  "size": "medium"
+}

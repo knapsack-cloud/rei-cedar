@@ -1,0 +1,32 @@
+{
+  "id": "30NNRz18sD",
+  "title": "Secondary",
+  "type": "data",
+  "patternId": "button",
+  "templateId": "vue-mOX8NDqIwK",
+  "data": {
+    "props": {
+      "tag": "button",
+      "type": "button",
+      "modifier": "secondary",
+      "size": "medium",
+      "iconOnly": false,
+      "withBackground": false
+    },
+    "slots": {
+      "children": [
+        {
+          "type": "text",
+          "text": "i r button"
+        }
+      ],
+      "default": [
+        {
+          "type": "text",
+          "text": "Add to cart"
+        }
+      ],
+      "icon-left": []
+    }
+  }
+}

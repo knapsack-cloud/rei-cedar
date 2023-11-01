@@ -1,0 +1,77 @@
+blocks:
+  settings:
+    tokens:
+      rootFontSize: 16px
+demos:
+  settings: {}
+settings:
+  favicon: https://knapsack.imgix.net/site/rei-cedar/favicon-wszm3rsmoy.svg
+  logoUrl: ''
+  theme:
+    appearance:
+      customFonts:
+        - family: Bitter
+          src:
+            - format: woff2
+              path: https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLjOXXpzveS5Bw.woff2
+              type: url
+          style: normal
+          weight: ''
+      navigation:
+        primaryNav:
+          accentColor:
+            colorValue: '#030301e6'
+            type: value
+          textColor:
+            colorValue: '#030301e6'
+            type: value
+          textTransform: inherit
+        secondaryNav:
+          accentColor:
+            colorValue: '#030301e6'
+            type: value
+          textColor:
+            colorValue: '#030301e6'
+            type: value
+          textTransform: inherit
+        tabs:
+          accentColor:
+            colorValue: '#030301e6'
+            type: value
+          textColor:
+            colorValue: '#030301e6'
+            type: value
+          textTransform: inherit
+      pageElements:
+        bodyText:
+          fontSize:
+            min:
+              unit: px
+              value: 18
+          textTransform: inherit
+        headingLarge:
+          textTransform: inherit
+        headingMedium:
+          textTransform: inherit
+        headingSmall:
+          textTransform: inherit
+        headingXLarge:
+          fontFamily: Bitter
+          textTransform: inherit
+        headingXSmall:
+          textTransform: inherit
+        link:
+          textColor:
+            colorValue: '#030301e6'
+            type: value
+          textTransform: inherit
+          underline: true
+        pageDescription: {}
+        pageTitle:
+          fontFamily: Bitter
+          textColor:
+            colorValue: '#4e4d49'
+            type: value
+          textTransform: inherit
+    version: 10
+  title: Cedar

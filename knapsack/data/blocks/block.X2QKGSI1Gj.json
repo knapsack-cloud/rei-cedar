@@ -1,0 +1,151 @@
+{
+  "id": "X2QKGSI1Gj",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Overview"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Component variables provide a versioned method for teams to:"
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Import the exact CSS styles used in the Cedar Vue component"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Apply these exact CSS styles to elements in their project"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Component variables are only available for a core subset of Cedar components, and are distributed in SCSS and LESS format."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Component variables include mixins such as "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "text": "@include cdr-button-base-mixin"
+            },
+            {
+              "type": "text",
+              "text": " which sets many properties on an element. Each component has a "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "text": "base"
+            },
+            {
+              "type": "text",
+              "text": " mixin which sets properties that apply to all components of that type, as well as "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "text": "modifier"
+            },
+            {
+              "type": "text",
+              "text": " mixins which only apply to a specific variant of that component"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "For example, you can import the styling for a Cedar primary button component using a mixin:"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}

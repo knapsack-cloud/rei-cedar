@@ -1,0 +1,17 @@
+{
+  "globalAssetSetIds": ["example"],
+  "allAssetSets": {
+    "example": {
+      "id": "example",
+      "title": "Example",
+      "inlineCss": "",
+      "inlineJs": "",
+      "assets": [
+        {
+          "src": "../../dist/cedar-compiled.css"
+        }
+        
+      ]
+    }
+  }
+}

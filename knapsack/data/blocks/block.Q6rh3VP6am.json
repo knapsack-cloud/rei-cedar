@@ -1,0 +1,284 @@
+{
+  "id": "Q6rh3VP6am",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "The team"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Cedar is maintained by a core team of designers, developers, and writers dedicated to developing and supporting the system. We welcome collaboration with the REI digital community to help evolve the system to suit changing product needs and help you do your best work."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "How to reach us"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "The Cedar team is in Slack, which is the best way to learn about new releases and find support. Find us at "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://rei.slack.com/messages/CA58YCGN4",
+                    "target": "_blank",
+                    "class": null
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "#cedar-user-support"
+            },
+            {
+              "type": "text",
+              "text": " to:"
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Stay up-to-date on Cedar releases, news, and events"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ask us a question about using Cedar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Let us know about a potential contribution"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "For those outside of the REI network, feel free to email "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "mailto:cedar@rei.com",
+                    "target": "_blank",
+                    "class": null
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "cedar@rei.com"
+            },
+            {
+              "type": "text",
+              "text": " with any questions or topics you’d like to discuss."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Report an issue"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Our team is committed to maintaining consistent, high-quality components. If you encounter any defects in the Figma UI Toolkit, Vue code, or on the documentation site, please submit them to "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://rei.slack.com/messages/CA58YCGN4",
+                    "target": "_blank",
+                    "class": null
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "#cedar-user-support"
+            },
+            {
+              "type": "text",
+              "text": ". You can also come talk to us during our weekly office hours."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "We’ll address the bug as soon as possible, depending on the severity of the issue and the sprint capacity. Please include as much relevant information as possible when submitting a bug report, including steps to reproduce, urgency, and impact to help prioritize the task."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "If you have a fix for the bug and would like to submit a PR for it, please reach out in Slack at "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://rei.slack.com/messages/CA58YCGN4",
+                    "target": "_blank",
+                    "class": null
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "#cedar-user-support"
+            },
+            {
+              "type": "text",
+              "text": " or check out the "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/contributing",
+                    "target": "_blank",
+                    "class": ""
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "Contributing to Cedar article"
+            },
+            {
+              "type": "text",
+              "text": " to learn more about contribution opportunities."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}

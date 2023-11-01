@@ -1,0 +1,18 @@
+{
+  "id": "sMC0acEPMb",
+  "blockType": "shortcut-tiles",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "NjnGMZpcNN",
+        "title": "Slack",
+        "link": {
+          "path": "https://rei.enterprise.slack.com/?redir=%2Fr-t3245741396%3Fredir%3D%252Fmessages%252FCA58YCGN4",
+          "external": true
+        },
+        "description": "🔒 #cedar-user-support"
+      }
+    ]
+  },
+  "size": null
+}

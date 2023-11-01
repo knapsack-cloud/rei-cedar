@@ -1,0 +1,68 @@
+byId:
+  about:
+    id: about
+    name: About
+    parentId: root
+    path: ''
+  button:
+    id: button
+    name: Button
+    parentId: components
+    path: /pattern/button
+  card:
+    id: card
+    name: Card
+    parentId: components
+    path: /pattern/card
+  chip:
+    id: chip
+    name: Chip
+    parentId: components
+    path: /pattern/chip
+  component-variables:
+    id: component-variables
+    name: Component variables
+    parentId: components
+    path: /pages/component-variables
+  components:
+    id: components
+    name: Components
+    parentId: root
+    path: ''
+  get-in-touch:
+    id: get-in-touch
+    name: Get in touch
+    parentId: about
+    path: /pages/get-in-touch
+  image:
+    id: image
+    name: Image
+    parentId: components
+    path: /pattern/image
+  rating:
+    id: rating
+    name: Rating
+    parentId: components
+    path: /pattern/rating
+  untitled:
+    id: untitled
+    name: All Components
+    parentId: components
+    path: /pages/untitled
+  untitled-gov8ltndz:
+    id: untitled-gov8ltndz
+    name: Cedar's purpose & parts
+    parentId: about
+    path: /pages/untitled-gov8ltndz
+order:
+  - about
+  - components
+  - untitled
+  - component-variables
+  - button
+  - card
+  - chip
+  - untitled-gov8ltndz
+  - get-in-touch
+  - image
+  - rating

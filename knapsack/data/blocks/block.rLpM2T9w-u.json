@@ -1,0 +1,22 @@
+{
+  "id": "rLpM2T9w-u",
+  "blockType": "callout",
+  "data": {
+    "type": "error",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "When not to use"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium"
+}

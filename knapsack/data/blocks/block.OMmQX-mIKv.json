@@ -1,0 +1,36 @@
+{
+  "id": "OMmQX-mIKv",
+  "blockType": "callout",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ],
+              "text": "REI.com is currently using Bazaarvoice for ratings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Styles documented here may not reflect the current styles provided by the tool. Reach out in #cedar-user-support for further guidance or questions."
+            }
+          ]
+        }
+      ]
+    },
+    "type": "info"
+  },
+  "size": null
+}

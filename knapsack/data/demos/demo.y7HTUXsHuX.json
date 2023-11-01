@@ -1,0 +1,20 @@
+{
+  "id": "y7HTUXsHuX",
+  "title": "Default",
+  "type": "data",
+  "patternId": "chip",
+  "templateId": "vue-5VzqCs3onJ",
+  "data": {
+    "props": {},
+    "slots": {
+      "default": [
+        {
+          "type": "text",
+          "text": "chip"
+        }
+      ]
+    }
+  },
+  "height": 32,
+  "width": 50
+}

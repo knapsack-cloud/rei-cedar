@@ -1,0 +1,25 @@
+{
+  "id": "RX3m6dsB9i",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Purpose"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium"
+}

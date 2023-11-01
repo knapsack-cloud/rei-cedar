@@ -1,0 +1,21 @@
+{
+  "id": "ZxhLB7XhUB",
+  "blockType": "pattern-template-block",
+  "data": {
+    "hideControls": false,
+    "playgroundUi": {
+      "allowResizing": false,
+      "showSchemaForm": false,
+      "showCodeSnippet": true,
+      "demoSize": "landscape"
+    },
+    "allowResizing": false,
+    "showCodeSnippet": true,
+    "showSchemaForm": false,
+    "demoSize": "landscape",
+    "patternId": "chip",
+    "templateId": "vue-5VzqCs3onJ",
+    "demoId": "y7HTUXsHuX"
+  },
+  "size": null
+}

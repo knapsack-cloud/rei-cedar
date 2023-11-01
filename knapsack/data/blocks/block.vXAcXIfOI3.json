@@ -1,0 +1,22 @@
+{
+  "id": "vXAcXIfOI3",
+  "blockType": "pattern-template-block",
+  "data": {
+    "hideControls": false,
+    "playgroundUi": {
+      "allowResizing": false,
+      "showSchemaForm": false,
+      "showCodeSnippet": true,
+      "demoSize": "landscape"
+    },
+    "allowResizing": false,
+    "showCodeSnippet": true,
+    "showSchemaForm": false,
+    "demoSize": "landscape",
+    "patternId": "button",
+    "templateId": "vue-mOX8NDqIwK",
+    "demoId": "K1sDJr0vT7"
+  },
+  "size": "medium",
+  "spacing": null
+}

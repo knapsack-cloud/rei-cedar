@@ -1,0 +1,42 @@
+{
+  "id": "chip",
+  "title": "Chip",
+  "description": "Allows people to make selections, filter content, or trigger actions",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-5VzqCs3onJ",
+      "title": "CdrChip",
+      "path": "../../dist/src/components/chip/CdrChip.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": "../../src/components/chip/CdrChip.vue"
+      },
+      "demoIds": ["y7HTUXsHuX"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-5VzqCs3onJ"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": [
+        "HzdDreM8kw",
+        "ZxhLB7XhUB",
+        "n3YGwYMY9g",
+        "nZePfcfwbA",
+        "B-3olkg-Gv"
+      ]
+    }
+  ]
+}

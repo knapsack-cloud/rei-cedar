@@ -1,0 +1,36 @@
+{
+  "id": "aXX4u1NXJC",
+  "title": "Default",
+  "type": "data",
+  "patternId": "card",
+  "templateId": "vue-DFp__mlTWK",
+  "data": {
+    "props": {
+      "tag": "article"
+    },
+    "slots": {
+      "default": [
+        {
+          "type": "template-demo",
+          "patternId": "image",
+          "templateId": "vue-Uxor7bCp0C",
+          "demoId": "ydDSvzNRsE"
+        },
+        {
+          "type": "text",
+          "text": "<h1>Complex Card Title</h1>"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "rating",
+          "templateId": "vue-z389B3Fra8",
+          "demoId": "pyP1LbDyyN"
+        },
+        {
+          "type": "text",
+          "text": "<p>Card content</p>"
+        }
+      ]
+    }
+  }
+}

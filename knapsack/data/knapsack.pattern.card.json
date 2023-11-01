@@ -1,0 +1,36 @@
+{
+  "id": "card",
+  "title": "Card",
+  "description": "Related, interactive containers linking to a single subject or destination",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-DFp__mlTWK",
+      "title": "CdrCard",
+      "path": "../../dist/src/components/card/CdrCard.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": "../../src/components/card/CdrCard.vue"
+      },
+      "demoIds": ["aXX4u1NXJC"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-DFp__mlTWK"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["9Rbi5j8DnE", "El_3IM6PnO", "SpeZZzKedh"]
+    }
+  ]
+}

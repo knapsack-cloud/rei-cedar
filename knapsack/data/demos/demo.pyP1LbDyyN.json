@@ -1,0 +1,11 @@
+{
+  "id": "pyP1LbDyyN",
+  "title": "Default",
+  "type": "data",
+  "patternId": "rating",
+  "templateId": "vue-z389B3Fra8",
+  "data": {
+    "props": {},
+    "slots": {}
+  }
+}

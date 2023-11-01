@@ -1,0 +1,17 @@
+{
+  "id": "ydDSvzNRsE",
+  "title": "Default",
+  "type": "data",
+  "patternId": "image",
+  "templateId": "vue-Uxor7bCp0C",
+  "data": {
+    "props": {
+      "alt": "",
+      "ratio": "16-9",
+      "modifier": "",
+      "src": "https://cedar.rei.com/rei-passage-2-tent.jpg",
+      "cover": true
+    },
+    "slots": {}
+  }
+}

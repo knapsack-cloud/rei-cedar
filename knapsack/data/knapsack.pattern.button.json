@@ -1,0 +1,42 @@
+{
+  "id": "button",
+  "title": "Button",
+  "description": "Initiates an action, such as completing a task or submitting information",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-mOX8NDqIwK",
+      "title": "CdrButton",
+      "path": "../../dist/src/components/button/CdrButton.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": "../../src/components/button/CdrButton.vue"
+      },
+      "demoIds": ["K1sDJr0vT7", "30NNRz18sD"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-mOX8NDqIwK"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": [
+        "cglBzBopFq",
+        "vXAcXIfOI3",
+        "gtkdDeetwo",
+        "RX3m6dsB9i",
+        "ITtnPtOmnr"
+      ]
+    }
+  ]
+}

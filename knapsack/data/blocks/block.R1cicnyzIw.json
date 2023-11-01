@@ -1,0 +1,359 @@
+{
+  "id": "R1cicnyzIw",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ],
+              "text": "Naming structure"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "The naming structure for component variables and mixins is as follows:"
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Namespace:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Top level namespace "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": "cdr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Component:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Name of the Cedar component for the exported variable"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Modifier:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Variant of Cedar component for the exported variable"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "textAlign": "left"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Base modifier ("
+                            },
+                            {
+                              "type": "text",
+                              "marks": [
+                                {
+                                  "type": "code"
+                                }
+                              ],
+                              "text": "base-"
+                            },
+                            {
+                              "type": "text",
+                              "text": ") indicates variables that apply to all instances of that Cedar component"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "textAlign": "left"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Additional modifiers can be stacked on top of that"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "textAlign": "left"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "For example, to make a primary large button you would use the variables that have "
+                            },
+                            {
+                              "type": "text",
+                              "marks": [
+                                {
+                                  "type": "code"
+                                }
+                              ],
+                              "text": "base"
+                            },
+                            {
+                              "type": "text",
+                              "text": ", "
+                            },
+                            {
+                              "type": "text",
+                              "marks": [
+                                {
+                                  "type": "code"
+                                }
+                              ],
+                              "text": "primary"
+                            },
+                            {
+                              "type": "text",
+                              "text": ", and "
+                            },
+                            {
+                              "type": "text",
+                              "marks": [
+                                {
+                                  "type": "code"
+                                }
+                              ],
+                              "text": "large"
+                            },
+                            {
+                              "type": "text",
+                              "text": " modifiers"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Sub-Element:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Indicates a sub-element of a component. For example, "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": "cdr-input-base-label-color"
+                    },
+                    {
+                      "type": "text",
+                      "text": " indicates the color of the label element used inside the input component"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "State:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Describes the interactive state that this variable is applied to. These correspond to CSS selectors such as "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": ":focus"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": ":active"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": ":hover"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "code"
+                        }
+                      ],
+                      "text": ":disabled"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}

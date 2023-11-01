@@ -1,0 +1,42 @@
+{
+  "id": "HzdDreM8kw",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "text": "import { CdrChip, CdrChipGroup } from '@rei/cedar'"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Live demo"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}
