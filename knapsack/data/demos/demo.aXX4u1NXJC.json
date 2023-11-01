@@ -11,6 +11,12 @@
     "slots": {
       "default": [
         {
+          "type": "template-demo",
+          "patternId": "image",
+          "templateId": "vue-Uxor7bCp0C",
+          "demoId": "ydDSvzNRsE"
+        },
+        {
           "type": "text",
           "text": "This is a card content slot."
         }
