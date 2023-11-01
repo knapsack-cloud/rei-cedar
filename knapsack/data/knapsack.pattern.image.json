@@ -1,0 +1,36 @@
+{
+  "id": "image",
+  "title": "Image",
+  "description": "Media for capturing attention and communicating messages",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-Uxor7bCp0C",
+      "title": "CdrImg",
+      "path": "../../dist/src/components/image/CdrImg.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": "../../src/components/image/CdrImg.vue"
+      },
+      "demoIds": ["ydDSvzNRsE"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-Uxor7bCp0C"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": []
+    }
+  ]
+}

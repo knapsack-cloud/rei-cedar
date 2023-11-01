@@ -34,6 +34,11 @@ byId:
     name: Get in touch
     parentId: about
     path: /pages/get-in-touch
+  image:
+    id: image
+    name: Image
+    parentId: components
+    path: /pattern/image
   untitled:
     id: untitled
     name: All Components
@@ -54,3 +59,4 @@ order:
   - chip
   - untitled-gov8ltndz
   - get-in-touch
+  - image
