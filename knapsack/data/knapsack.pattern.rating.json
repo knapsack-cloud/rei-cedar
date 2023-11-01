@@ -10,7 +10,7 @@
       "path": "../../dist/src/components/rating/CdrRating.vue.mjs",
       "templateLanguageId": "vue",
       "spec": {
-        "isInferred": true
+        "isInferred": "../../src/components/rating/CdrRating.vue"
       },
       "demoIds": ["pyP1LbDyyN"],
       "blockIds": []
