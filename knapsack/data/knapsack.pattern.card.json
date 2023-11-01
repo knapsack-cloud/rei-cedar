@@ -1,7 +1,7 @@
 {
   "id": "card",
   "title": "Card",
-  "description": "",
+  "description": "Related, interactive containers linking to a single subject or destination",
   "statuses": {},
   "templates": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "overview",
       "title": "Overview",
-      "blockIds": []
+      "blockIds": ["9Rbi5j8DnE", "El_3IM6PnO", "SpeZZzKedh"]
     }
   ]
 }
