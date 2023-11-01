@@ -29,7 +29,7 @@ jobs:
           key: node-deps-${{ hashFiles('package-lock.json') }}
       - name: Install Deps
         if: steps.cache.outputs.cache-hit != 'true'
-        run: npm ci
+        run: npm install
       - name: Run Full Build
         run: npm run build
       - name: Run Knapsack Test
