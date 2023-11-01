@@ -1,0 +1,221 @@
+{
+  "id": "Ieyzhg3oap",
+  "blockType": "text-editor",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "left",
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet Cedar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Cedar is REI’s open-source design system for digital products and experiences, based on REI’s visual language. Its purpose is simple: to help people create consistent, unified user interfaces. We do this by simplifying common design decisions and providing reusable resources, freeing folks to focus on groundbreaking work."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Cedar’s main benefit as a design system is in the reusability of its code, which increases our overall consistency and design and development efficiency. By distributing flexible atomic design system elements (Vue components, design tokens, CSS styles) we provide teams with all the tools necessary to create functional reusable components aligned with our brand."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "textAlign": "start",
+            "level": 3
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "How to participate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Our community is made up of developers and designers of all kinds. Your participation is what makes Cedar possible as a sustainable, growing system."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "There are many ways to participate:"
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Suggesting a bug fix in our documentation or UI libraries, like a typo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Adopting a new release "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Offering an answer in the #cedar-user-support Slack channel "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Taking our biannual survey and offering suggestions for improvement "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sharing ideas for process improvements within the Cedar ecosystem "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "To recognize your support, we’ll plant trees on your behalf via donations to "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://www.americanforests.org/",
+                    "target": "_blank",
+                    "class": null
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ],
+              "text": "American Forests"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "To learn more improving Cedar, check out how you can contribute your ideas for possible additions and changes to the system."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}

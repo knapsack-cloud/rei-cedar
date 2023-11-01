@@ -1,0 +1,18 @@
+{
+  "id": "r0KCMSlg9y",
+  "blockType": "shortcut-tiles",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "SI4_oLIBB2",
+        "title": "Get in touch",
+        "link": {
+          "name": "Get in touch",
+          "path": "/pages/get-in-touch"
+        },
+        "description": "How to reach us"
+      }
+    ]
+  },
+  "size": null
+}
