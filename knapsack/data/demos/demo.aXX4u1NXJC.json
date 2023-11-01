@@ -18,7 +18,7 @@
         },
         {
           "type": "text",
-          "text": "This is a card content slot."
+          "text": "<h1>Complex Card Title</h1>"
         }
       ]
     }
