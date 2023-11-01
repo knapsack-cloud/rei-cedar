@@ -57,7 +57,23 @@
     "ks:serve": "NODE_ENV=production knapsack --config ./knapsack/knapsack.config.js serve",
     "ks:test": "knapsack --config ./knapsack/knapsack.config.js test"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 16.0.0",
+    "npm": ">= 8.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run prepush"
+    }
+  },
+  "dependencies": {
+    "tabbable": "^4.0.0",
     "@babel/preset-env": "^7.18.2",
     "@knapsack/app": "^4.32.0",
     "@knapsack/renderer-vue": "4.32.0",
@@ -120,23 +136,6 @@
     "vue-eslint-parser": "^9.3.0",
     "vue-router": "^4.0.10",
     "vue-tsc": "^1.6.5"
-  },
-  "engines": {
-    "node": ">= 16.0.0",
-    "npm": ">= 8.0.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run prepush"
-    }
-  },
-  "dependencies": {
-    "tabbable": "^4.0.0"
   },
   "peerDependencies": {
     "core-js": "^3.22.7",
