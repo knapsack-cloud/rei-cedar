@@ -31,6 +31,8 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: npm ci
       - name: Run Full Build
-        run: npm run ks:build
+        run: |
+          npm run build
+          npm run ks:build
       - name: Run Knapsack Test
         run: npm run ks:test
