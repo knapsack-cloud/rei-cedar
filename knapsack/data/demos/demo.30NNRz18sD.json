@@ -1,6 +1,6 @@
 {
-  "id": "K1sDJr0vT7",
-  "title": "Primary",
+  "id": "30NNRz18sD",
+  "title": "Secondary",
   "type": "data",
   "patternId": "button",
   "templateId": "vue-mOX8NDqIwK",
@@ -8,7 +8,7 @@
     "props": {
       "tag": "button",
       "type": "button",
-      "modifier": "primary",
+      "modifier": "secondary",
       "size": "medium",
       "iconOnly": false,
       "withBackground": false
@@ -25,9 +25,8 @@
           "type": "text",
           "text": "Add to cart"
         }
-      ]
+      ],
+      "icon-left": []
     }
-  },
-  "height": 969,
-  "width": 380
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "button",
   "title": "Button",
-  "description": "",
+  "description": "Initiates an action, such as completing a task or submitting information",
   "statuses": {},
   "templates": [
     {
@@ -12,7 +12,7 @@
       "spec": {
         "isInferred": "../../src/components/button/CdrButton.vue"
       },
-      "demoIds": ["K1sDJr0vT7"],
+      "demoIds": ["K1sDJr0vT7", "30NNRz18sD"],
       "blockIds": []
     }
   ],
@@ -30,7 +30,13 @@
     {
       "id": "overview",
       "title": "Overview",
-      "blockIds": []
+      "blockIds": [
+        "cglBzBopFq",
+        "vXAcXIfOI3",
+        "gtkdDeetwo",
+        "RX3m6dsB9i",
+        "ITtnPtOmnr"
+      ]
     }
   ]
 }
