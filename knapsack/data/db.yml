@@ -5,6 +5,7 @@ blocks:
 demos:
   settings: {}
 settings:
+  favicon: https://knapsack.imgix.net/site/rei-cedar/favicon-wszm3rsmoy.svg
   logoUrl: ''
   theme:
     appearance:
