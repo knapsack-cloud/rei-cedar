@@ -60,8 +60,6 @@ jobs:
         env:
           CYPRESS_INSTALL_BINARY: 0
       - name: Run Full Build
-        run: |
-          npm run build
-          npm run ks:build
+        run: npm run build
       - name: Run Knapsack Test
         run: npm run ks:test
