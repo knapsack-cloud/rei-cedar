@@ -14,6 +14,7 @@ settings:
     textColorDescription:
       colorValue: '#FFFFFF'
       type: value
-    size: full
+    size: large
     backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-homepage-image-cooperativebydesign-n7wtboooed.svg
+    backgroundSize: cover
 description: REI Co-op's open-source design system
