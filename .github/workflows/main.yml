@@ -61,5 +61,7 @@ jobs:
           CYPRESS_INSTALL_BINARY: 0
       - name: Run Full Build
         run: npm run build
+      - name: Run Full KS Build
+        run: npm run ks:build
       - name: Run Knapsack Test
         run: npm run ks:test
