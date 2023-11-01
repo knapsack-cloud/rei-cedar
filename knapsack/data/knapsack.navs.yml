@@ -2,19 +2,31 @@ byId:
   button:
     id: button
     name: Button
-    parentId: root
+    parentId: components
     path: /pattern/button
   card:
     id: card
     name: Card
-    parentId: root
+    parentId: components
     path: /pattern/card
   chip:
     id: chip
     name: Chip
-    parentId: root
+    parentId: components
     path: /pattern/chip
+  components:
+    id: components
+    name: Components
+    parentId: root
+    path: ''
+  untitled:
+    id: untitled
+    name: All Components
+    parentId: components
+    path: /pages/untitled
 order:
+  - components
+  - untitled
   - button
   - card
   - chip

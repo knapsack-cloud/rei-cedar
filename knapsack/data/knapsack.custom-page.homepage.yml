@@ -1,15 +1,19 @@
 id: homepage
-title: ''
+title: |-
+  Cooperative
+  by design
 blockIds: []
 settings:
   pageHeader:
     backgroundColor:
-      colorValue: '#6A4CEC'
       type: value
+      colorValue: '#373734'
     textColorTitle:
       colorValue: '#FFFFFF'
       type: value
     textColorDescription:
       colorValue: '#FFFFFF'
       type: value
-    size: large
+    size: full
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-homepage-image-cooperativebydesign-n7wtboooed.svg
+description: REI Co-op's open-source design system
