@@ -1,0 +1,24 @@
+{
+  "id": "aiUkIYnMbY",
+  "blockType": "code-snippet",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "css"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": ".your-button-component {\n  @include cdr-button-base-mixin;\n  @include cdr-button-primary-mixin;\n}"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null
+}
