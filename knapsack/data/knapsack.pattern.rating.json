@@ -1,0 +1,36 @@
+{
+  "id": "rating",
+  "title": "Rating",
+  "description": "Provides insight into user opinions for products, experiences, and more",
+  "statuses": {},
+  "templates": [
+    {
+      "id": "vue-z389B3Fra8",
+      "title": "CdrRating",
+      "path": "../../dist/src/components/rating/CdrRating.vue.mjs",
+      "templateLanguageId": "vue",
+      "spec": {
+        "isInferred": true
+      },
+      "demoIds": ["pyP1LbDyyN"],
+      "blockIds": []
+    }
+  ],
+  "tabs": [
+    {
+      "type": "subPage",
+      "id": "overview"
+    },
+    {
+      "type": "template",
+      "id": "vue-z389B3Fra8"
+    }
+  ],
+  "subPages": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blockIds": ["09iVkcFjP3", "bpHbmP4KdO", "OMmQX-mIKv", "XVi6TEn4K8"]
+    }
+  ]
+}

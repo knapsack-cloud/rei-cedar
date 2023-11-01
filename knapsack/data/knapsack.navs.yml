@@ -39,6 +39,11 @@ byId:
     name: Image
     parentId: components
     path: /pattern/image
+  rating:
+    id: rating
+    name: Rating
+    parentId: components
+    path: /pattern/rating
   untitled:
     id: untitled
     name: All Components
@@ -60,3 +65,4 @@ order:
   - untitled-gov8ltndz
   - get-in-touch
   - image
+  - rating

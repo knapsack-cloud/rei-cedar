@@ -19,6 +19,16 @@
         {
           "type": "text",
           "text": "<h1>Complex Card Title</h1>"
+        },
+        {
+          "type": "template-demo",
+          "patternId": "rating",
+          "templateId": "vue-z389B3Fra8",
+          "demoId": "pyP1LbDyyN"
+        },
+        {
+          "type": "text",
+          "text": "<p>Card content</p>"
         }
       ]
     }
