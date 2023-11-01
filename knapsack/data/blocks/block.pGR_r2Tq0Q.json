@@ -1,0 +1,14 @@
+{
+  "id": "pGR_r2Tq0Q",
+  "data": {
+    "images": [
+      {
+        "src": "https://knapsack.imgix.net/site/rei-cedar/spec__image_crop_top_16-4-s4vhus6x_e.jpeg",
+        "caption": "Spec__Image_Crop_Top_16-4.jpeg"
+      }
+    ],
+    "imageSize": "full"
+  },
+  "size": "medium",
+  "blockType": "image-block"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tMzDc8bNFd",
+  "data": {
+    "type": "warning",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "When not to use",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "callout"
+}

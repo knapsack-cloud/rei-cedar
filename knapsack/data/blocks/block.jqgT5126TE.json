@@ -1,0 +1,22 @@
+{
+  "id": "jqgT5126TE",
+  "data": {
+    "type": "success",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "When to use",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "callout"
+}
