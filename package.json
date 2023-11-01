@@ -33,7 +33,7 @@
   "scripts": {
     "prepublishOnly": "npm-run-all lint build",
     "dev": "vite",
-    "build": "vue-tsc && vite build && npm run build:umd && npm run build:extractcss && npm run build:icons && npm run build:docgen",
+    "build": "vue-tsc && vite build && npm run build:umd && npm run build:extractcss && npm run build:icons && npm run build:docgen && npm run ks:build",
     "build:umd": "vite build --config vite.umd.config.ts",
     "preview": "vite preview",
     "unit": "vitest run",
@@ -59,7 +59,7 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": ">= 16.0.0",
+    "node": ">= 18.0.0",
     "npm": ">= 8.0.0"
   },
   "config": {
