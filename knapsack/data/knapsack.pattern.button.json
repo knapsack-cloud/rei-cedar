@@ -18,12 +18,16 @@
   ],
   "tabs": [
     {
-      "type": "subPage",
-      "id": "overview"
+      "id": "overview",
+      "type": "subPage"
     },
     {
-      "type": "template",
-      "id": "vue-mOX8NDqIwK"
+      "id": "16RCDnEAj2",
+      "type": "subPage"
+    },
+    {
+      "id": "vue-mOX8NDqIwK",
+      "type": "template"
     }
   ],
   "subPages": [
@@ -34,9 +38,15 @@
         "cglBzBopFq",
         "vXAcXIfOI3",
         "gtkdDeetwo",
+        "l_MPJDVINg",
         "RX3m6dsB9i",
         "ITtnPtOmnr"
       ]
+    },
+    {
+      "id": "16RCDnEAj2",
+      "title": "Figma",
+      "blockIds": ["ldnEkq8Yjc"]
     }
   ]
 }

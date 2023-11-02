@@ -1,0 +1,10 @@
+{
+  "id": "l_MPJDVINg",
+  "data": {
+    "demoId": "color-swatch",
+    "groupIds": ["global.color.button"],
+    "tokenType": ""
+  },
+  "size": "medium",
+  "blockType": "design-tokens"
+}

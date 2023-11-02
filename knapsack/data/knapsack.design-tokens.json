@@ -1,1 +1,36 @@
-{}
+{
+  "global": {
+    "color": {
+      "green": {
+        "200": {
+          "$type": "color",
+          "$value": "#1f513f"
+        }
+      },
+      "white": {
+        "200": {
+          "$type": "color",
+          "$value": "#f9f8f6"
+        }
+      },
+      "button": {
+        "text": {
+          "primary": {
+            "$value": "{global.color.secondary}"
+          }
+        },
+        "background": {
+          "primary": {
+            "$value": "{global.color.primary}"
+          }
+        }
+      },
+      "primary": {
+        "$value": "{global.color.green.200}"
+      },
+      "secondary": {
+        "$value": "{global.color.white.200}"
+      }
+    }
+  }
+}
