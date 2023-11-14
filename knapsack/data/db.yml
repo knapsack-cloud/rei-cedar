@@ -20,19 +20,29 @@ settings:
       navigation:
         primaryNav:
           accentColor:
-            colorValue: '#030301e6'
-            type: value
+            tokenName: global.color.secondary
+            type: design-token
+          backgroundColor:
+            tokenName: global.color.background.default
+            type: design-token
+          fontFamily: Bitter
+          hoverColor:
+            tokenName: global.color.white.200
+            type: design-token
           textColor:
-            colorValue: '#030301e6'
-            type: value
+            tokenName: global.color.text.inverse
+            type: design-token
           textTransform: inherit
         secondaryNav:
           accentColor:
-            colorValue: '#030301e6'
-            type: value
+            tokenName: global.color.green.200
+            type: design-token
+          backgroundColor:
+            tokenName: global.color.secondary
+            type: design-token
           textColor:
-            colorValue: '#030301e6'
-            type: value
+            tokenName: global.color.text.primary
+            type: design-token
           textTransform: inherit
         tabs:
           accentColor:
@@ -50,13 +60,15 @@ settings:
               value: 18
           textTransform: inherit
         headingLarge:
+          fontWeight: 500
           textTransform: inherit
         headingMedium:
+          fontWeight: 500
           textTransform: inherit
         headingSmall:
           textTransform: inherit
         headingXLarge:
-          fontFamily: Bitter
+          fontWeight: 500
           textTransform: inherit
         headingXSmall:
           textTransform: inherit
@@ -66,9 +78,16 @@ settings:
             type: value
           textTransform: inherit
           underline: true
-        pageDescription: {}
+        pageDescription:
+          fontFamily: Bitter
+          textTransform: inherit
         pageTitle:
           fontFamily: Bitter
+          fontSize:
+            min:
+              unit: px
+              value: 64
+          fontWeight: 500
           textColor:
             colorValue: '#4e4d49'
             type: value

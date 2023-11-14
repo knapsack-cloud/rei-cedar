@@ -1,0 +1,44 @@
+{
+  "id": "vbTo-OlAUa",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "6dtLuSjQ0-",
+        "link": {
+          "name": "Overview",
+          "path": "/pages/overview"
+        },
+        "title": "Contributing to Cedar",
+        "description": ""
+      },
+      {
+        "id": "bPMJqj_lOc",
+        "link": {
+          "name": "Accessibility",
+          "path": "/pages/untitled-avtjcb414g"
+        },
+        "title": "How Cedar incorporates accessibility"
+      },
+      {
+        "id": "XmOHBmq7Km",
+        "link": {
+          "name": "Hand-off Process",
+          "path": "/pages/untitled-nzc5pti-3o"
+        },
+        "title": "The handoff process"
+      }
+    ],
+    "gridStyles": {
+      "columns": "1",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

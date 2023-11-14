@@ -1,0 +1,42 @@
+{
+  "id": "wc3Errpot6",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Freeing people up to build really cool stuff",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "A common language for better designer-developer communication. A reusable toolset and shared standards to increase overall efficiency. Cedar optimizes the space between concept and reality so teams can focus on creating great customer experiences.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "small",
+  "blockType": "text-editor"
+}

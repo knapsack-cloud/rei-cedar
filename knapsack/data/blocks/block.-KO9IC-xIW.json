@@ -1,0 +1,57 @@
+{
+  "id": "-KO9IC-xIW",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "Yn_wV2_Opk",
+        "link": {
+          "name": "Overview",
+          "path": "/pages/overview-6cwfl845ik"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.11.36-pm-cwwiolohcs.png",
+        "title": "Guidelines",
+        "description": ""
+      },
+      {
+        "id": "Sbs1qhayRN",
+        "link": {
+          "name": "Overview",
+          "path": "/pages/untitled-ucdghkzjsb"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.11.58-pm-xgyopfoztm.png",
+        "title": "Tokens"
+      },
+      {
+        "id": "UNOMDyc6_A",
+        "link": {
+          "name": "All Components",
+          "path": "/pages/untitled"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.12.09-pm-uf3g9lw2vu.png",
+        "title": "Components",
+        "description": ""
+      },
+      {
+        "id": "EnzV3w_456",
+        "link": {
+          "name": "Overview",
+          "path": "/pages/untitled-rtj8loz9f7"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.12.20-pm-t0vz0dnylr.png",
+        "title": "Patterns"
+      }
+    ],
+    "gridStyles": {
+      "columns": "4",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "medium",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

@@ -1,9 +1,19 @@
 byId:
   about:
     id: about
-    name: About
+    name: Tools & Resources
     parentId: root
     path: ''
+  about-_otvuwuigm:
+    id: about-_otvuwuigm
+    name: About
+    parentId: about
+    path: ''
+  android:
+    id: android
+    name: Android
+    parentId: tokens-vqqxn09guc
+    path: /pages/android
   button:
     id: button
     name: Button
@@ -27,42 +37,242 @@ byId:
   components:
     id: components
     name: Components
-    parentId: root
+    parentId: design-system
     path: ''
+  components-ifht51kn76:
+    id: components-ifht51kn76
+    name: Components
+    parentId: contributing-lypzahj610
+    path: /pages/components-ifht51kn76
+  contributing-lypzahj610:
+    id: contributing-lypzahj610
+    name: Contributing
+    parentId: about
+    path: ''
+  core-principles:
+    id: core-principles
+    name: Core principles
+    parentId: guidelines
+    path: ''
+  deprecated-items:
+    id: deprecated-items
+    name: Deprecated items
+    parentId: developing
+    path: /pages/deprecated-items
+  design-foundations:
+    id: design-foundations
+    name: Design Foundations
+    parentId: guidelines
+    path: ''
+  design-system:
+    id: design-system
+    name: System Assets
+    parentId: root
+    path: /pages/design-system
+  designing:
+    id: designing
+    name: Designing
+    parentId: tools-and-resources
+    path: ''
+  developing:
+    id: developing
+    name: Developing
+    parentId: tools-and-resources
+    path: ''
+  faqs:
+    id: faqs
+    name: FAQs
+    parentId: guidance
+    path: /pages/faqs
   get-in-touch:
     id: get-in-touch
     name: Get in touch
-    parentId: about
+    parentId: untitled-gov8ltndz
     path: /pages/get-in-touch
+  github:
+    id: github
+    name: Github
+    parentId: root
+    path: https://github.com/rei/rei-cedar
+  guidance:
+    id: guidance
+    name: Guidance
+    parentId: tools-and-resources
+    path: ''
+  guidelines:
+    id: guidelines
+    name: Guidelines
+    parentId: about
+    path: ''
+  icons:
+    id: icons
+    name: Icons
+    parentId: contributing-lypzahj610
+    path: /pages/icons
   image:
     id: image
     name: Image
     parentId: components
     path: /pattern/image
+  ios:
+    id: ios
+    name: iOS
+    parentId: tokens-vqqxn09guc
+    path: /pages/ios
+  onboarding:
+    id: onboarding
+    name: Onboarding
+    parentId: developing
+    path: /pages/onboarding
+  overview:
+    id: overview
+    name: Overview
+    parentId: contributing-lypzahj610
+    path: /pages/overview
+  overview-6cwfl845ik:
+    id: overview-6cwfl845ik
+    name: Overview
+    parentId: guidelines
+    path: /pages/overview-6cwfl845ik
+  patterns:
+    id: patterns
+    name: Patterns
+    parentId: design-system
+    path: ''
   rating:
     id: rating
     name: Rating
     parentId: components
     path: /pattern/rating
+  releases:
+    id: releases
+    name: Releases
+    parentId: what's-new
+    path: ''
+  tokens:
+    id: tokens
+    name: Tokens
+    parentId: contributing-lypzahj610
+    path: /pages/tokens
+  tokens-vqqxn09guc:
+    id: tokens-vqqxn09guc
+    name: Tokens
+    parentId: design-system
+    path: ''
+  tools-and-resources:
+    id: tools-and-resources
+    name: Tools & Resources
+    parentId: about
+    path: ''
+  tutorials:
+    id: tutorials
+    name: Tutorials
+    parentId: designing
+    path: /pages/tutorials
   untitled:
     id: untitled
     name: All Components
     parentId: components
     path: /pages/untitled
+  untitled-avtjcb414g:
+    id: untitled-avtjcb414g
+    name: Accessibility
+    parentId: core-principles
+    path: /pages/untitled-avtjcb414g
+  untitled-gmukzugeri:
+    id: untitled-gmukzugeri
+    name: Color
+    parentId: design-foundations
+    path: /pages/untitled-gmukzugeri
   untitled-gov8ltndz:
     id: untitled-gov8ltndz
     name: Cedar's purpose & parts
-    parentId: about
+    parentId: about-_otvuwuigm
     path: /pages/untitled-gov8ltndz
+  untitled-jmkaw3vehn:
+    id: untitled-jmkaw3vehn
+    name: Installing Cedar
+    parentId: developing
+    path: /pages/untitled-jmkaw3vehn
+  untitled-nbfepannyu:
+    id: untitled-nbfepannyu
+    name: Cedar 14
+    parentId: releases
+    path: /pages/untitled-nbfepannyu
+  untitled-nzc5pti-3o:
+    id: untitled-nzc5pti-3o
+    name: Hand-off Process
+    parentId: guidance
+    path: /pages/untitled-nzc5pti-3o
+  untitled-r9prlykxo1:
+    id: untitled-r9prlykxo1
+    name: Onboarding
+    parentId: designing
+    path: /pages/untitled-r9prlykxo1
+  untitled-rtj8loz9f7:
+    id: untitled-rtj8loz9f7
+    name: Overview
+    parentId: patterns
+    path: /pages/untitled-rtj8loz9f7
+  untitled-ucdghkzjsb:
+    id: untitled-ucdghkzjsb
+    name: Overview
+    parentId: tokens-vqqxn09guc
+    path: /pages/untitled-ucdghkzjsb
+  web:
+    id: web
+    name: Web
+    parentId: tokens-vqqxn09guc
+    path: /pages/web
+  what's-new:
+    id: what's-new
+    name: What's New?
+    parentId: root
+    path: /pages/what's-new
 order:
+  - what's-new
+  - releases
+  - untitled-nbfepannyu
   - about
+  - about-_otvuwuigm
+  - untitled-gov8ltndz
+  - get-in-touch
+  - tools-and-resources
+  - designing
+  - untitled-r9prlykxo1
+  - tutorials
+  - developing
+  - untitled-jmkaw3vehn
+  - onboarding
+  - deprecated-items
+  - guidance
+  - untitled-nzc5pti-3o
+  - faqs
+  - guidelines
+  - overview-6cwfl845ik
+  - design-foundations
+  - untitled-gmukzugeri
+  - core-principles
+  - untitled-avtjcb414g
+  - contributing-lypzahj610
+  - overview
+  - tokens
+  - components-ifht51kn76
+  - icons
+  - design-system
+  - tokens-vqqxn09guc
+  - untitled-ucdghkzjsb
+  - web
+  - ios
+  - android
   - components
   - untitled
   - component-variables
   - button
   - card
   - chip
-  - untitled-gov8ltndz
-  - get-in-touch
   - image
   - rating
+  - patterns
+  - untitled-rtj8loz9f7
+  - github

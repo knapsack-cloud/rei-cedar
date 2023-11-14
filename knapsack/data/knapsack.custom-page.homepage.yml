@@ -2,7 +2,18 @@ id: homepage
 title: |-
   Cooperative
   by design
-blockIds: []
+blockIds:
+  - wc3Errpot6
+  - Dmr1juXMEJ
+  - wg1Gd5y8Gk
+  - sv8cKNiCyD
+  - vSMZOWerom
+  - MKq5Z5PRML
+  - qcIwG2UFEz
+  - '-KO9IC-xIW'
+  - jmlN0ROFjE
+  - 76pC6y43q-
+  - vbTo-OlAUa
 settings:
   pageHeader:
     backgroundColor:
@@ -17,4 +28,5 @@ settings:
     size: large
     backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-homepage-image-cooperativebydesign-n7wtboooed.svg
     backgroundSize: cover
+  hideTableOfContents: true
 description: REI Co-op's open-source design system

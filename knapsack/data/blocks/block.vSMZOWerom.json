@@ -1,0 +1,38 @@
+{
+  "id": "vSMZOWerom",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Onboarding",
+          "path": "/pages/untitled-r9prlykxo1"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.17.10-pm-otiqcuq_bz.png",
+        "title": "For designers",
+        "description": ""
+      },
+      {
+        "id": "B3hlyf-dQS",
+        "link": {
+          "name": "Installing Cedar",
+          "path": "/pages/untitled-jmkaw3vehn"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/screenshot-2023-11-14-at-12.11.15-pm-cpfvpr32fb.png",
+        "title": "For developers"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "large",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}
