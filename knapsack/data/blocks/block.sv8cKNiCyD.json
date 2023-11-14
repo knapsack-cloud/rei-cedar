@@ -1,0 +1,25 @@
+{
+  "id": "sv8cKNiCyD",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 1,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Resources to get you started",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null,
+  "blockType": "text-editor"
+}

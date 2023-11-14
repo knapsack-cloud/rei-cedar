@@ -1,6 +1,20 @@
 {
   "global": {
     "color": {
+      "text": {
+        "type": "string",
+        "inverse": {
+          "$type": "color",
+          "$value": "#f9f8f6",
+          "$description": ""
+        },
+        "primary": {
+          "$type": "color",
+          "$value": "rgb(12, 11, 8, 0.75)",
+          "$description": ""
+        },
+        "description": ""
+      },
       "green": {
         "200": {
           "$type": "color",
@@ -30,6 +44,15 @@
       },
       "secondary": {
         "$value": "{global.color.white.200}"
+      },
+      "background": {
+        "type": "string",
+        "default": {
+          "$type": "color",
+          "$value": "#373734",
+          "$description": ""
+        },
+        "description": ""
       }
     }
   }

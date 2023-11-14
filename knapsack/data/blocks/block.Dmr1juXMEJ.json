@@ -1,0 +1,36 @@
+{
+  "id": "Dmr1juXMEJ",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Cedar 14",
+          "path": "/pages/untitled-nbfepannyu"
+        },
+        "title": "Cedar 14 release",
+        "description": "Enabling palettes and bringing TypeScript to the masses."
+      },
+      {
+        "id": "B3hlyf-dQS",
+        "link": {
+          "name": "Overview",
+          "path": "/pages/overview"
+        },
+        "title": "Read about Cedar's new contribution process"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": "large",
+  "blockType": "shortcut-tiles"
+}
