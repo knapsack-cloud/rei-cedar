@@ -10,9 +10,24 @@
       "path": "../../dist/src/components/card/CdrCard.vue.mjs",
       "templateLanguageId": "vue",
       "spec": {
-        "isInferred": "../../src/components/card/CdrCard.vue"
+        "slots": {
+          "default": {
+            "title": "default"
+          }
+        },
+        "props": {
+          "$schema": "http://json-schema.org/draft-07/schema",
+          "description": "Related, interactive containers linking to a single subject or destination",
+          "type": "object",
+          "required": [],
+          "properties": {
+            "tag": {
+              "type": "string"
+            }
+          }
+        }
       },
-      "demoIds": ["aXX4u1NXJC"],
+      "demoIds": ["aXX4u1NXJC", "A9D1jtU7DH", "QI_7r-lMZ1"],
       "blockIds": []
     }
   ],

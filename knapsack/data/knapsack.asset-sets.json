@@ -1,16 +1,15 @@
 {
-  "globalAssetSetIds": ["example"],
+  "globalAssetSetIds": ["cedar"],
   "allAssetSets": {
-    "example": {
-      "id": "example",
-      "title": "Example",
+    "cedar": {
+      "id": "cedar",
+      "title": "Cedar",
       "inlineCss": "",
       "inlineJs": "",
       "assets": [
         {
-          "src": "../../dist/cedar-compiled.css"
+          "src": "../../dist/style.css"
         }
-        
       ]
     }
   }
