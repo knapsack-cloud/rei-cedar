@@ -1,7 +1,6 @@
 id: untitled-ucdghkzjsb
-title: Overview
+title: Design Tokens
 blockIds:
-  - 3mK3PObwMu
   - tdOd_1sq5z
   - uP0aC3bPsw
   - ME_M3w6Ci7
@@ -11,17 +10,23 @@ blockIds:
   - 2wU4_LrOOp
   - '-UeQda3zDG'
   - SL_j67ZAVh
-description: Design Tokens - Variables storing REI's visual design attributes
+description: |-
+  Variables storing 
+  REI's visual design attributes
 settings:
   pageHeader:
-    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-tokens-landing-op1yzzjvtv.svg
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-tokens-landing-1-slcx3yw3nw.png
     backgroundColor:
       type: design-token
       tokenName: global.color.background.default
     size: auto
     textColorTitle:
       type: design-token
-      tokenName: global.color.white.200
-    hideText: true
+      tokenName: global.color.text.inverse
+    hideText: false
     backgroundOverlay: false
     backgroundSize: contain
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.white.200
+    backgroundPosition: right

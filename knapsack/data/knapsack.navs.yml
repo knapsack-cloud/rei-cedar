@@ -9,6 +9,11 @@ byId:
     name: About
     parentId: about
     path: ''
+  actions:
+    id: actions
+    name: Actions
+    parentId: components
+    path: ''
   android:
     id: android
     name: Android
@@ -17,17 +22,17 @@ byId:
   button:
     id: button
     name: Button
-    parentId: components
+    parentId: actions
     path: /pattern/button
   card:
     id: card
     name: Card
-    parentId: components
+    parentId: actions
     path: /pattern/card
   chip:
     id: chip
     name: Chip
-    parentId: components
+    parentId: actions
     path: /pattern/chip
   component-variables:
     id: component-variables
@@ -84,6 +89,11 @@ byId:
     name: FAQs
     parentId: guidance
     path: /pages/faqs
+  forms:
+    id: forms
+    name: Forms
+    parentId: patterns
+    path: ''
   get-in-touch:
     id: get-in-touch
     name: Get in touch
@@ -112,13 +122,33 @@ byId:
   image:
     id: image
     name: Image
-    parentId: components
+    parentId: media
     path: /pattern/image
+  input-types:
+    id: input-types
+    name: Input types
+    parentId: forms
+    path: /pages/input-types
   ios:
     id: ios
     name: iOS
     parentId: tokens-vqqxn09guc
     path: /pages/ios
+  media:
+    id: media
+    name: Media
+    parentId: components
+    path: ''
+  messaging:
+    id: messaging
+    name: Messaging
+    parentId: components
+    path: ''
+  notifications-and-alerts:
+    id: notifications-and-alerts
+    name: Notifications & alerts
+    parentId: patterns
+    path: ''
   onboarding:
     id: onboarding
     name: Onboarding
@@ -142,13 +172,18 @@ byId:
   rating:
     id: rating
     name: Rating
-    parentId: components
+    parentId: messaging
     path: /pattern/rating
   releases:
     id: releases
     name: Releases
     parentId: what's-new
     path: ''
+  status:
+    id: status
+    name: Status
+    parentId: notifications-and-alerts
+    path: /pages/status
   tokens:
     id: tokens
     name: Tokens
@@ -171,9 +206,14 @@ byId:
     path: /pages/tutorials
   untitled:
     id: untitled
-    name: All Components
+    name: Components
     parentId: components
     path: /pages/untitled
+  untitled-7jpz117zts:
+    id: untitled-7jpz117zts
+    name: Alerts
+    parentId: notifications-and-alerts
+    path: /pages/untitled-7jpz117zts
   untitled-avtjcb414g:
     id: untitled-avtjcb414g
     name: Accessibility
@@ -211,14 +251,29 @@ byId:
     path: /pages/untitled-r9prlykxo1
   untitled-rtj8loz9f7:
     id: untitled-rtj8loz9f7
-    name: Overview
+    name: Patterns
     parentId: patterns
     path: /pages/untitled-rtj8loz9f7
   untitled-ucdghkzjsb:
     id: untitled-ucdghkzjsb
-    name: Overview
+    name: Design Tokens
     parentId: tokens-vqqxn09guc
     path: /pages/untitled-ucdghkzjsb
+  untitled-uyqba8npxd:
+    id: untitled-uyqba8npxd
+    name: Error handling
+    parentId: forms
+    path: /pages/untitled-uyqba8npxd
+  update-and-loading:
+    id: update-and-loading
+    name: Update & loading
+    parentId: notifications-and-alerts
+    path: /pages/update-and-loading
+  validation-feedback:
+    id: validation-feedback
+    name: Validation feedback
+    parentId: forms
+    path: /pages/validation-feedback
   web:
     id: web
     name: Web
@@ -268,11 +323,22 @@ order:
   - components
   - untitled
   - component-variables
+  - actions
   - button
   - card
   - chip
+  - media
   - image
+  - messaging
   - rating
   - patterns
   - untitled-rtj8loz9f7
+  - forms
+  - untitled-uyqba8npxd
+  - input-types
+  - validation-feedback
+  - notifications-and-alerts
+  - untitled-7jpz117zts
   - github
+  - status
+  - update-and-loading
