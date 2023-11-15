@@ -1,0 +1,46 @@
+{
+  "id": "Pk4OIJrxJB",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Tokens",
+          "path": "/pages/tokens"
+        },
+        "title": "Related",
+        "description": "Contributing Tokens"
+      },
+      {
+        "id": "B3hlyf-dQS",
+        "link": {
+          "name": "Icons",
+          "path": "/pages/icons"
+        },
+        "title": "Related",
+        "description": "Contributing Icons"
+      },
+      {
+        "id": "wf70ywBhKq",
+        "link": {
+          "name": "Components",
+          "path": "/pages/components-ifht51kn76"
+        },
+        "title": "Related",
+        "description": "Contributing Components"
+      }
+    ],
+    "gridStyles": {
+      "columns": "3",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

@@ -1,5 +1,5 @@
 {
-  "id": "3mK3PObwMu",
+  "id": "6kM-a4h0CL",
   "data": {
     "content": {
       "type": "doc",
@@ -12,7 +12,7 @@
           },
           "content": [
             {
-              "text": "Design tokens",
+              "text": "Help improve Cedar",
               "type": "text"
             }
           ]
@@ -24,13 +24,8 @@
           },
           "content": [
             {
-              "text": "Variables storing REI's visual design attributes",
-              "type": "text",
-              "marks": [
-                {
-                  "type": "bold"
-                }
-              ]
+              "text": "Cedar is an open source, cooperative design system. Good ideas can come from anyone, and everyone at REI Co-op is welcome to add to Cedar’s growth. Your contributions make Cedar stronger for all users—we encourage your perspectives and inp",
+              "type": "text"
             }
           ]
         }

@@ -1,0 +1,57 @@
+{
+  "id": "RAjHxuPN_B",
+  "data": {
+    "type": "info",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Contributor note",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Contributions mainly come from the REI community. If you are external to our organization, learn how you can contribute to Cedar by ",
+              "type": "text"
+            },
+            {
+              "text": "submitting bug fixes",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/contributing#how-to-contribute",
+                    "class": "router-link-active router-link-exact-active",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "callout",
+  "size": "large"
+}

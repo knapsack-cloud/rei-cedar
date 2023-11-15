@@ -1,0 +1,47 @@
+{
+  "id": "OzCQHjALTy",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Cedar 13",
+          "path": "/pages/cedar-13"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/tree-rings-kdzj_zmznx.png",
+        "title": "Cedar 13",
+        "description": "Vue 3 migration complete plus two new features"
+      },
+      {
+        "id": "uVJLIWSzZ7",
+        "link": {
+          "name": "Cedar 12",
+          "path": "/pages/cedar-12"
+        },
+        "title": "Cedar 12",
+        "description": "Preparing for Vue 3"
+      },
+      {
+        "id": "fWXFA6nndd",
+        "link": {
+          "name": "Cedar 11",
+          "path": "/pages/cedar-11"
+        },
+        "title": "Cedar 11",
+        "description": "A focus on messaging"
+      }
+    ],
+    "gridStyles": {
+      "columns": "3",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

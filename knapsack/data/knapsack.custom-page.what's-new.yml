@@ -1,3 +1,18 @@
 id: what's-new
 title: What's New?
-blockIds: []
+blockIds:
+  - lPoN6o54yn
+  - Vb7AtsZrg0
+  - OzCQHjALTy
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.secondary
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/tree-rings-ec2jct2gix.png
+    backgroundSize: contain
+    size: small
+    backgroundPosition: right
+description: |-
+  Cedar Design System's latest updates and 
+  improvements

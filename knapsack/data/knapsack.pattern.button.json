@@ -12,7 +12,13 @@
       "spec": {
         "isInferred": "../../src/components/button/CdrButton.vue"
       },
-      "demoIds": ["K1sDJr0vT7", "30NNRz18sD", "PnccNj6sKA"],
+      "demoIds": [
+        "K1sDJr0vT7",
+        "30NNRz18sD",
+        "PnccNj6sKA",
+        "PnccNj6sKA",
+        "PnccNj6sKA"
+      ],
       "blockIds": []
     }
   ],

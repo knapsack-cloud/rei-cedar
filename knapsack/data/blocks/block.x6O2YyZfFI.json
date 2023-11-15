@@ -1,0 +1,57 @@
+{
+  "id": "x6O2YyZfFI",
+  "data": {
+    "type": "warning",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Accessibility note",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Not every front-end element is eligible for creation as a reusable component. If a component is infrequently used or not sufficiently complex it may take more time to distribute and maintain than it would to simply duplicate. To learn more about creating with Cedar, check out our info about ",
+              "type": "text"
+            },
+            {
+              "text": "Cedar’s purpose",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/about/purpose",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "large",
+  "blockType": "callout"
+}
