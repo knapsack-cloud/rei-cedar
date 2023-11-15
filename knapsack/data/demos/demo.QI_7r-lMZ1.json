@@ -1,0 +1,10 @@
+{
+  "id": "QI_7r-lMZ1",
+  "type": "template",
+  "templateInfo": {
+    "path": "../../src/components/card/examples/demo/complexCard.vue"
+  },
+  "title": "Complex Card",
+  "height": 586,
+  "width": 652
+}
