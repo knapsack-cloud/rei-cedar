@@ -1,0 +1,74 @@
+{
+  "id": "YFtGDhZu9V",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Accessibility",
+          "path": "/pages/untitled-avtjcb414g"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/tree-rings-kdzj_zmznx.png",
+        "title": "Accessibility",
+        "description": "Designing for accessibility means being inclusive to the needs of our users"
+      },
+      {
+        "id": "uVJLIWSzZ7",
+        "link": {
+          "name": "Color",
+          "path": "/pages/untitled-gmukzugeri"
+        },
+        "title": "Color",
+        "description": "One of the most important attributes of brand expression"
+      },
+      {
+        "id": "fWXFA6nndd",
+        "link": {
+          "name": "Icons",
+          "path": "/pages/icons-wjnma9eisu"
+        },
+        "title": "Icons",
+        "description": "Symbolize commands, navigation, utility, or common actions"
+      },
+      {
+        "id": "nXSENLg2ol",
+        "link": {
+          "name": "Motion",
+          "path": "/pages/motion"
+        },
+        "title": "Motion",
+        "description": "Enhance the customer's understanding of REI's digital products"
+      },
+      {
+        "id": "JlkTja-yVQ",
+        "link": {
+          "name": "Prominence",
+          "path": "/pages/prominence"
+        },
+        "title": "Prominence",
+        "description": "Elevating interface objects to create a meaningful sense of depth"
+      },
+      {
+        "id": "EgYFC6Guoh",
+        "link": {
+          "name": "Radius",
+          "path": "/pages/radius"
+        },
+        "title": "Radius",
+        "description": "Corner appearance of containers"
+      }
+    ],
+    "gridStyles": {
+      "columns": "3",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

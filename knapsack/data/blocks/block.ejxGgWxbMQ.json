@@ -1,0 +1,144 @@
+{
+  "id": "ejxGgWxbMQ",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Welcome to the Cedar Design System! Cedar is used as a foundation for REI's digital products, creating consistency by linking UI elements to documentation (this site) and code.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Install Figma",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Figma is REI's design tool of choice and houses Cedar's UI toolkits. You can use Figma on a web browser, but you'll get the most out of it if you download the desktop app.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Access the Figma desktop app using an REI tool called \"Self Service.\" On a Mac, open your applications folder and navigate to Self Service or open Spotlight Search and search for it. In Self Service, search for \"Figma\" and install. If you need help or have problems installing Figma, please contact REI's IT Help Desk.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "REI typefaces are automatically distributed through Figma, so you won't need to install any fonts. However, if you plan on using REI typefaces in other applications you can install \"Stuart TTF • Digital\" and \"Graphic TTF • Digital\" through the Self Service tool.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 3,
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Next steps",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "orderedList",
+          "attrs": {
+            "start": 1
+          },
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "Explore some of REI's guidelines to get a better understanding of the co-op's visual and verbal standards. The DAM (Digital Asset Manager) houses many of these guidelines as well as other important assets. You'll need to request access before viewing documents on the DAM, but the process is fairly quick (about 1-2 days).",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "Read about the foundational elements central to designing with Cedar.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "Review Cedar components, the building blocks to creating an interface. The components listed on this site will mirror those available in the Figma Web Components Toolkit.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}
