@@ -49,7 +49,7 @@
         "type": "string",
         "default": {
           "$type": "color",
-          "$value": "#373734",
+          "$value": "{global.color.primary}",
           "$description": ""
         },
         "description": ""
