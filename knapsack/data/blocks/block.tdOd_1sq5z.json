@@ -1,0 +1,53 @@
+{
+  "id": "tdOd_1sq5z",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "What are design tokens?",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Design tokens represent elements of style, the core design decisions that make up a brand. When these design decisions are given a name and paired with a corresponding code value, you have a token. Tokens are conceptual by nature, replacing hard-coded values with a meaningful layer of common language that can easily deploy across platforms and products.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Cedar tokens store the visual design attributes defining REI’s visual language. These include attributes for color, typography, spacing and more. Using them creates consistency when designing at scale. ::",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

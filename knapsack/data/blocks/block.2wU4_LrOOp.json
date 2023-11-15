@@ -1,0 +1,50 @@
+{
+  "id": "2wU4_LrOOp",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 3,
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "As a designer",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/tokens#as-a-designer",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "When you create a new file in Figma, token libraries are automatically available in the Assets panel. These libraries contain color, type, spacing, prominence, and icon styles that correspond to Cedar tokens.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "text-editor"
+}

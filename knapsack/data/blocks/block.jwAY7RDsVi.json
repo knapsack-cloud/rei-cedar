@@ -1,0 +1,81 @@
+{
+  "id": "jwAY7RDsVi",
+  "data": {
+    "type": "error",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "When not to use",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "Making modifications to an existing Cedar component—instead, come talk to us during weekly office hours or message us on our Slack ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "#cedar-user-support",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://rei.slack.com/messages/CA58YCGN4",
+                            "class": null,
+                            "target": "_blank"
+                          }
+                        },
+                        {
+                          "type": "underline"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " channel",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "Accessing a value or values when the token name doesn’t match the application—instead, create a local variable in your project or hardcode the desired value",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "callout"
+}
