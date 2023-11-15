@@ -1,0 +1,72 @@
+{
+  "id": "GQGI3NmzgC",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "r_uyPpgpmB",
+        "link": {
+          "name": "Alerts",
+          "path": "/pages/untitled-7jpz117zts"
+        },
+        "title": "Alerts",
+        "description": "Important messages interrupting the user flow"
+      },
+      {
+        "id": "vrAmEpJ_t9",
+        "link": {
+          "name": "Error handling",
+          "path": "/pages/untitled-uyqba8npxd"
+        },
+        "title": "Error handling",
+        "description": "Designing forms to prevent errors"
+      },
+      {
+        "id": "qSfkuWhHgB",
+        "link": {
+          "name": "Input types",
+          "path": "/pages/input-types"
+        },
+        "title": "Input types",
+        "description": "Guidelines for using form input elements"
+      },
+      {
+        "id": "Bqy9ODhX6g",
+        "link": {
+          "name": "Status",
+          "path": "/pages/status"
+        },
+        "title": "Status",
+        "description": "Messages informing users about page changes"
+      },
+      {
+        "id": "OVtZi7PAgy",
+        "link": {
+          "name": "Update & loading",
+          "path": "/pages/update-and-loading"
+        },
+        "title": "Update & loading",
+        "description": "Updates about loading and inline page content"
+      },
+      {
+        "id": "25qzStYN_m",
+        "link": {
+          "name": "Validation feedback",
+          "path": "/pages/validation-feedback"
+        },
+        "title": "Validation feedback",
+        "description": "Feedback for users during and after form submission"
+      }
+    ],
+    "gridStyles": {
+      "columns": "3",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": false,
+      "imageSize": "none",
+      "titleSize": "medium"
+    }
+  },
+  "blockType": "shortcut-tiles"
+}

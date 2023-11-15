@@ -1,0 +1,10 @@
+{
+  "id": "0GODPNXed0",
+  "data": {
+    "demoId": "color-swatch",
+    "tokenType": "",
+    "groupIds": ["global.color.background", "global.color.button.background"]
+  },
+  "size": null,
+  "blockType": "design-tokens"
+}

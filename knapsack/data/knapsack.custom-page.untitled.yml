@@ -1,5 +1,20 @@
 id: untitled
-title: All Components
+title: Components
 blockIds:
   - 9lmQeNP9uQ
-description: Reusable & functional parts that make up an interface
+description: |-
+  Reusable & functional parts 
+  that make up an interface
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.background.default
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-components-landing-1-etadj6mzs7.png
+    textColorTitle:
+      type: design-token
+      tokenName: global.color.text.inverse
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.text.inverse
+    size: medium

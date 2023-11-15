@@ -1,0 +1,10 @@
+{
+  "id": "w8MHqf3Kzc",
+  "data": {
+    "demoId": "text-color",
+    "tokenType": "",
+    "groupIds": ["global.color"]
+  },
+  "size": null,
+  "blockType": "design-tokens"
+}

@@ -1,3 +1,23 @@
 id: design-system
 title: System Assets
-blockIds: []
+blockIds:
+  - J4brVcfESl
+settings:
+  pageHeader:
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-guidelines-landing-1-hvjziv0wvi.png
+    size: medium
+    backgroundSize: cover
+    backgroundOverlay: true
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.background.default
+    textColorTitle:
+      type: design-token
+      tokenName: global.color.text.inverse
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.text.inverse
+  hideTableOfContents: true
+description: |-
+  Everything you need to build 
+  really cool stuff with Cedar

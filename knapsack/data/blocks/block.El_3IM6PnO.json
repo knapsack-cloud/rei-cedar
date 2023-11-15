@@ -4,14 +4,14 @@
   "data": {
     "hideControls": false,
     "playgroundUi": {
+      "demoSize": "landscape",
       "allowResizing": false,
-      "showSchemaForm": false,
-      "showCodeSnippet": true,
-      "demoSize": "landscape"
+      "showSchemaForm": true,
+      "showCodeSnippet": true
     },
     "allowResizing": false,
     "showCodeSnippet": true,
-    "showSchemaForm": false,
+    "showSchemaForm": true,
     "demoSize": "landscape",
     "patternId": "card",
     "templateId": "vue-DFp__mlTWK",

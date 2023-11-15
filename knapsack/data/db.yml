@@ -60,15 +60,15 @@ settings:
               value: 18
           textTransform: inherit
         headingLarge:
-          fontWeight: 500
+          fontWeight: 600
           textTransform: inherit
         headingMedium:
-          fontWeight: 500
+          fontWeight: 600
           textTransform: inherit
         headingSmall:
           textTransform: inherit
         headingXLarge:
-          fontWeight: 500
+          fontWeight: 600
           textTransform: inherit
         headingXSmall:
           textTransform: inherit

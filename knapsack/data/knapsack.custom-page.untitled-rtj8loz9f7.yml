@@ -1,3 +1,21 @@
 id: untitled-rtj8loz9f7
-title: Overview
-blockIds: []
+title: Patterns
+blockIds:
+  - GQGI3NmzgC
+description: |-
+  Principled guidance to common 
+  interactions like behavior, flow, or 
+  application motif
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.background.default
+    textColorTitle:
+      type: design-token
+      tokenName: global.color.text.inverse
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.text.inverse
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-patterns-landing-1-ffltmt5zts.png
+    size: medium

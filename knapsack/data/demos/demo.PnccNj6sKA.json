@@ -1,0 +1,33 @@
+{
+  "id": "PnccNj6sKA",
+  "data": {
+    "props": {
+      "tag": "button",
+      "size": "medium",
+      "type": "button",
+      "iconOnly": false,
+      "modifier": "primary",
+      "withBackground": false
+    },
+    "slots": {
+      "default": [
+        {
+          "text": "Register Now",
+          "type": "text"
+        }
+      ],
+      "children": [
+        {
+          "text": "i r button",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "type": "data",
+  "title": "Card CTA",
+  "width": 133,
+  "height": 40,
+  "patternId": "button",
+  "templateId": "vue-mOX8NDqIwK"
+}

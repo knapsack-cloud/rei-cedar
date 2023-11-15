@@ -1,0 +1,28 @@
+{
+  "id": "SL_j67ZAVh",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "FKRfAQmfDD",
+        "link": {
+          "path": "https://cedar.rei.com/tools-resources/hand-off-process",
+          "external": true
+        },
+        "title": "Related",
+        "description": "Tools & Resources                   Hand Off Process"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "none",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": "medium",
+  "blockType": "shortcut-tiles"
+}

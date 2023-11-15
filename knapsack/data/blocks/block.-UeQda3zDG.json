@@ -1,0 +1,36 @@
+{
+  "id": "-UeQda3zDG",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Design note",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Remember to pass the entire design token name to the developer during the design hand-off process. This can be through automated or manual methods.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "type": "warning"
+  },
+  "size": "medium",
+  "blockType": "callout"
+}

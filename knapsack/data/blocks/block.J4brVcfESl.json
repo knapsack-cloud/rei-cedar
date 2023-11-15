@@ -1,0 +1,48 @@
+{
+  "id": "J4brVcfESl",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "r_uyPpgpmB",
+        "link": {
+          "name": "Design Tokens",
+          "path": "/pages/untitled-ucdghkzjsb"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/cdr-tokens-landing-1-1alryzfoos.png",
+        "title": "Design Tokens",
+        "description": "Variables storing REI's visual design attributes"
+      },
+      {
+        "id": "vrAmEpJ_t9",
+        "link": {
+          "name": "Components",
+          "path": "/pages/untitled"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/cdr-components-landing-12-jrrdtsgbpk.png",
+        "title": "Components",
+        "description": "Reusable & functional parts that make up an interface"
+      },
+      {
+        "id": "qSfkuWhHgB",
+        "link": {
+          "name": "Input types",
+          "path": "/pages/input-types"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/cdr-patterns-landing-12-mkmw28cdau.png",
+        "title": "Patterns",
+        "description": "Guidelines for using form input elements"
+      }
+    ],
+    "gridStyles": {
+      "columns": "3",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "medium",
+      "titleSize": "medium"
+    }
+  },
+  "blockType": "shortcut-tiles"
+}
