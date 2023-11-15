@@ -1,0 +1,57 @@
+{
+  "id": "F8WB9M5sOm",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Cedar UI libraries",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "We have several ",
+              "type": "text"
+            },
+            {
+              "text": "Figma UI libraries",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://www.figma.com/community/file/1057372737094902305",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": " housing the Cedar design system. These libraries, as well as a few others, are pre-loaded when you create a new file within the REI Figma ecosystem. To take advantage of everything Cedar offers, make sure these libraries are turned on (and turn off libraries from other teams that you might not need).",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

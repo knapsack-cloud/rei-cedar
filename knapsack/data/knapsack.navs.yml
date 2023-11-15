@@ -134,6 +134,11 @@ byId:
     name: Icons
     parentId: contributing-lypzahj610
     path: /pages/icons
+  icons-wjnma9eisu:
+    id: icons-wjnma9eisu
+    name: Icons
+    parentId: design-foundations
+    path: /pages/icons-wjnma9eisu
   image:
     id: image
     name: Image
@@ -159,6 +164,11 @@ byId:
     name: Messaging
     parentId: components
     path: ''
+  motion:
+    id: motion
+    name: Motion
+    parentId: design-foundations
+    path: /pages/motion
   notifications-and-alerts:
     id: notifications-and-alerts
     name: Notifications & alerts
@@ -176,7 +186,7 @@ byId:
     path: /pages/overview
   overview-6cwfl845ik:
     id: overview-6cwfl845ik
-    name: Overview
+    name: Guidelines
     parentId: guidelines
     path: /pages/overview-6cwfl845ik
   patterns:
@@ -184,6 +194,16 @@ byId:
     name: Patterns
     parentId: design-system
     path: ''
+  prominence:
+    id: prominence
+    name: Prominence
+    parentId: design-foundations
+    path: /pages/prominence
+  radius:
+    id: radius
+    name: Radius
+    parentId: design-foundations
+    path: /pages/radius
   rating:
     id: rating
     name: Rating
@@ -261,7 +281,7 @@ byId:
     path: /pages/untitled-nzc5pti-3o
   untitled-r9prlykxo1:
     id: untitled-r9prlykxo1
-    name: Onboarding
+    name: Designer Onboarding
     parentId: designing
     path: /pages/untitled-r9prlykxo1
   untitled-rtj8loz9f7:
@@ -303,6 +323,9 @@ order:
   - what's-new
   - releases
   - untitled-nbfepannyu
+  - cedar-13
+  - cedar-12
+  - cedar-11
   - about
   - about-_otvuwuigm
   - untitled-gov8ltndz
@@ -322,6 +345,8 @@ order:
   - overview-6cwfl845ik
   - design-foundations
   - untitled-gmukzugeri
+  - icons-wjnma9eisu
+  - motion
   - core-principles
   - untitled-avtjcb414g
   - contributing-lypzahj610
@@ -357,6 +382,5 @@ order:
   - status
   - update-and-loading
   - github
-  - cedar-13
-  - cedar-12
-  - cedar-11
+  - prominence
+  - radius

@@ -1,3 +1,21 @@
 id: overview-6cwfl845ik
-title: Overview
-blockIds: []
+title: Guidelines
+blockIds:
+  - YFtGDhZu9V
+description: |-
+  Shared language that guides how we build 
+  high-quality experiences
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.background.default
+    textColorTitle:
+      type: design-token
+      tokenName: global.color.text.inverse
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.text.inverse
+    backgroundImage: https://knapsack.imgix.net/site/rei-cedar/cdr-guidelines-landing-1-h_jrfyqvz.png
+    backgroundSize: cover
+    size: large
