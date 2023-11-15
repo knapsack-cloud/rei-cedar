@@ -29,6 +29,21 @@ byId:
     name: Card
     parentId: actions
     path: /pattern/card
+  cedar-11:
+    id: cedar-11
+    name: Cedar 11
+    parentId: releases
+    path: /pages/cedar-11
+  cedar-12:
+    id: cedar-12
+    name: Cedar 12
+    parentId: releases
+    path: /pages/cedar-12
+  cedar-13:
+    id: cedar-13
+    name: Cedar 13
+    parentId: releases
+    path: /pages/cedar-13
   chip:
     id: chip
     name: Chip
@@ -156,7 +171,7 @@ byId:
     path: /pages/onboarding
   overview:
     id: overview
-    name: Overview
+    name: Contributing to Cedar
     parentId: contributing-lypzahj610
     path: /pages/overview
   overview-6cwfl845ik:
@@ -241,7 +256,7 @@ byId:
     path: /pages/untitled-nbfepannyu
   untitled-nzc5pti-3o:
     id: untitled-nzc5pti-3o
-    name: Hand-off Process
+    name: Hand-off process
     parentId: guidance
     path: /pages/untitled-nzc5pti-3o
   untitled-r9prlykxo1:
@@ -339,6 +354,9 @@ order:
   - validation-feedback
   - notifications-and-alerts
   - untitled-7jpz117zts
-  - github
   - status
   - update-and-loading
+  - github
+  - cedar-13
+  - cedar-12
+  - cedar-11

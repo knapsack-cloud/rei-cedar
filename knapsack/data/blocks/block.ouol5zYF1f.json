@@ -1,0 +1,402 @@
+{
+  "id": "ouol5zYF1f",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 1,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Cedar + Vue",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Cedar components are built using ",
+              "type": "text"
+            },
+            {
+              "text": "Vue 3",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://vuejs.org/",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": " and can only be used in Vue projects.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "All components are available using an ",
+              "type": "text"
+            },
+            {
+              "text": "NPM package",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://www.npmjs.com/package/@rei/cedar",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Terminal",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "\nnpm install --save @rei/cedar",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          }
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Once installed, you can import individual Cedar components from the main package into your project:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Vue SFC",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "App entry point",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "/* import the Cedar CSS reset and fonts first,\n   these files only needs to be loaded once on each page,\n   components should expect that the app consuming\n   them will load the fonts and reset */\n@import '@rei/cedar/dist/cdr-fonts.css';\n@import '@rei/cedar/dist/reset.css';\n\n/* import each component used in your project  */\n@import '@rei/cedar/dist/style/cdr-text.css';\n@import '@rei/cedar/dist/style/cdr-button.css';\n@import '@rei/cedar/dist/style/cdr-link.css';",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 1,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Setting up projects",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Copy",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "All components depend upon core reset and font assets. Without these assets included, components will not render correctly. These files are distributed as part of the Cedar NPM package.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Install Vue components package",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Terminal",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "npm install --save @rei/cedar",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Install required core styles",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Cedar requires a core reset stylesheet to render properly. This file should be loaded once per application/route, and it should be the first CSS file loaded.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "To include the stylesheet, import the ",
+              "type": "text"
+            },
+            {
+              "text": "reset.css",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": " file:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "App entry point",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "@import '@rei/cedar/dist/reset.css';",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Install required fonts",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Cedar uses specific fonts (Stuart and Graphik) required for your project. These fonts are available in the Cedar NPM package and mapped using the ",
+              "type": "text"
+            },
+            {
+              "text": "cdr-fonts.css",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": " file.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Vb7AtsZrg0",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "RgI6OKTwCA",
+        "link": {
+          "name": "Cedar 14",
+          "path": "/pages/untitled-nbfepannyu"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/tree-rings-kdzj_zmznx.png",
+        "title": "Cedar 14",
+        "description": "/cedar ^14..x\n/cdr-tokens ^12.x.x\n/cdr-component-variables ^9.x.x\n\nEnabling palettes and bringing TypeScript to the masses."
+      }
+    ],
+    "gridStyles": {
+      "columns": "1",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "large",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": null,
+  "blockType": "shortcut-tiles"
+}

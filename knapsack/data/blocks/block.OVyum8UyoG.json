@@ -1,0 +1,36 @@
+{
+  "id": "OVyum8UyoG",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Development note",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Stuart is a licensed, proprietary font. Do not use it outside of REI projects.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "type": "warning"
+  },
+  "blockType": "callout",
+  "size": "medium"
+}

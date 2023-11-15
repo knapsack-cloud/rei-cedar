@@ -1,0 +1,199 @@
+{
+  "id": "RiEIhkIn3E",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 1,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Designing for reuse",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Copy",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "When you have an idea for a new component design, icon and more, keep these core principles in mind to create durable solutions that can be easily shared and maintained:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Unified",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Build trust with customers and improve overall usability by creating consistent styles and interactions across channels. Designing with unity and consistency allows our visual language to scale across an omnichannel experience.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Intentional",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Quality over quantity. Be deliberate about how you approach creating, building, documenting and maintaining components.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Flexible",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Provide options for a component to work under a range of circumstances. The design should be flexible enough to support different scenarios, while still specific enough to be useful.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Extensible",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Design to allow the addition of new capabilities or functionality. Create forward-compatible solutions that can be reused and extended in the future to make maintenance easier and help support speed to market.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Accessible",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Accessibility is at the core of how we design usable experiences for all. Every design, asset, and piece of code should meet or exceed WCAG 2.1 AA accessibility standards, and should include guidance for any necessary implementation details.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null,
+  "blockType": "text-editor"
+}

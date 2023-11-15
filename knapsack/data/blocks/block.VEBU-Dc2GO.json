@@ -1,0 +1,189 @@
+{
+  "id": "VEBU-Dc2GO",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "To include these fonts, import ",
+              "type": "text"
+            },
+            {
+              "text": "cdr-fonts.css",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": ":",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "App entry point",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "@import '@rei/cedar/dist/cdr-fonts.css';",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Include component CSS",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "How you include CSS depends on your tech stack and varies from project to project. The following instructions apply to REI Vue 3/Vite apps",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "orderedList",
+          "attrs": {
+            "start": 1
+          },
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "In your app's client entry, bring in the reset, fonts, and any component styles used in that app.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "entry-client.js",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": null
+          },
+          "content": [
+            {
+              "text": "\nimport '@rei/cedar/dist/reset.css';\nimport '@rei/cedar/dist/cdr-fonts.css';\n\n/* import each component used in your project  */\n@import '@rei/cedar/dist/style/cdr-text.css';\n@import '@rei/cedar/dist/style/cdr-button.css';\n@import '@rei/cedar/dist/style/cdr-link.css';",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Cedar CSS assets can all be found inside ",
+              "type": "text"
+            },
+            {
+              "text": "node_modules/@rei/cedar/dist/style/",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": ". Filenames for component CSS match the ",
+              "type": "text"
+            },
+            {
+              "text": "kebab-case",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ]
+            },
+            {
+              "text": " name of the component.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null,
+  "blockType": "text-editor"
+}
