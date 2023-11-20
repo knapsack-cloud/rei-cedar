@@ -1,0 +1,37 @@
+{
+  "id": "YqCMozbGda",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Accessibility note:",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "hardBreak"
+            },
+            {
+              "type": "hardBreak"
+            },
+            {
+              "text": "We’ve carefully selected the color values in Cedar and tested them to meet WCAG accessibility requirements for contrast and color. Avoid using colors outside of this palette—it can create an inaccessible experience for some users.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "type": "warning"
+  },
+  "size": null,
+  "blockType": "callout"
+}

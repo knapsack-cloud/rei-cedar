@@ -1,0 +1,206 @@
+{
+  "id": "ArCwEQTs8K",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Color in Cedar",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/guidelines/color#color-in-cedar",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "We manage and distribute color in Cedar by using design tokens. These atomic pieces of information codify design-related values such as colors, fonts, spaces, animations and more.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 3,
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Color design tokens",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/guidelines/color#color-design-tokens",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Cedar uses tokens to assign specific jobs to specific colors. This process decouples the role a color plays from its hex value. It allows designers to quickly identify the right color by referencing the token name. For example, instead of coding all instances of a background color as #F4F2ED, engineers might use the token cdr-color-background-secondary.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "Tokens are useful for a few reasons:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "They eliminate the need to hard-code hex values and any errors associated with that process",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "Their naming conventions provide guidance on how to apply color",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "They make it much easier to update colors as the brand evolves",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": "left"
+                  },
+                  "content": [
+                    {
+                      "text": "They open the door to functionality like theming",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "start"
+          },
+          "content": [
+            {
+              "text": "For more info on how to apply color tokens, see our ",
+              "type": "text"
+            },
+            {
+              "text": "Cedar Color Tutorial",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://www.figma.com/community/file/1057385750878897703",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": " in Figma.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": null,
+  "blockType": "text-editor"
+}

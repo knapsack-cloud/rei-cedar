@@ -1,0 +1,22 @@
+{
+  "id": "MgtI7z_pQf",
+  "data": {
+    "type": "error",
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Don't",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "callout"
+}

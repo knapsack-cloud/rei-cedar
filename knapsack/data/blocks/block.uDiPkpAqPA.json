@@ -1,0 +1,29 @@
+{
+  "id": "uDiPkpAqPA",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "nFJ3RyN-f6",
+        "link": {
+          "name": "Web",
+          "path": "/pages/web"
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/guidelines_color_example2-z-pamrqkx_.jpeg",
+        "title": "Tokens",
+        "description": "Web Tokens - Color"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "medium",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": "small",
+  "blockType": "shortcut-tiles"
+}
