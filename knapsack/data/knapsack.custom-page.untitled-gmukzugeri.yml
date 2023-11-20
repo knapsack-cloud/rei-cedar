@@ -1,3 +1,26 @@
 id: untitled-gmukzugeri
 title: Color
-blockIds: []
+blockIds:
+  - xLy244J6DC
+  - uDiPkpAqPA
+  - kWU1cLoPSC
+  - YqCMozbGda
+  - ArCwEQTs8K
+  - o_r-VBwCX1
+  - DMZjc-6PUi
+  - MgtI7z_pQf
+  - WUVoJVmi3w
+  - WN1732s-vO
+  - o0JYw1ciCt
+description: Color builds an emotional connection to our REI Co-op brand
+settings:
+  pageHeader:
+    backgroundColor:
+      type: design-token
+      tokenName: global.color.background.default
+    textColorDescription:
+      type: design-token
+      tokenName: global.color.text.inverse
+    textColorTitle:
+      type: design-token
+      tokenName: global.color.text.inverse

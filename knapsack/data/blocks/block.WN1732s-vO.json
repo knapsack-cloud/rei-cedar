@@ -1,0 +1,33 @@
+{
+  "id": "WN1732s-vO",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "image",
+          "attrs": {
+            "alt": "Don’t alternate background colors in visually jarring ways.",
+            "src": "https://knapsack.imgix.net/site/rei-cedar/color_2_dont-nlwzhcya.jpeg",
+            "title": "Don’t alternate background colors in visually jarring ways."
+          }
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Don’t alternate background colors in visually jarring ways.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "text-editor",
+  "spacing": null
+}

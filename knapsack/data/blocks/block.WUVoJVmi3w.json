@@ -1,0 +1,32 @@
+{
+  "id": "WUVoJVmi3w",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "image",
+          "attrs": {
+            "alt": "Do arrange background colors to promote page hierarchy by minimizing shifts in background.",
+            "src": "https://knapsack.imgix.net/site/rei-cedar/color_2_do-n39urozxul.jpeg",
+            "title": "Do arrange background colors to promote page hierarchy by minimizing shifts in background."
+          }
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Do arrange background colors to promote page hierarchy by minimizing shifts in background.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "size": "medium",
+  "blockType": "text-editor"
+}

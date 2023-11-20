@@ -1,0 +1,110 @@
+{
+  "id": "xLy244J6DC",
+  "data": {
+    "content": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2,
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Understanding brand expression",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/guidelines/color#understanding-brand-expression",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Color is one of the most important attributes of brand expression. Cedar’s color palette focuses on a primary color of natural and comforting green, with a supporting set of secondary colors reflecting the colors of nature. These brand colors are reflected through ",
+              "type": "text"
+            },
+            {
+              "text": "color design tokens",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://cedar.rei.com/tokens/web#Color",
+                    "class": "",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": " in our UI and other places.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          }
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "left"
+          },
+          "content": [
+            {
+              "text": "Cedar offers a systematic, digital-first way to apply color. For a closer look at how color is expressed throughout the co-op, check out the ",
+              "type": "text"
+            },
+            {
+              "text": "REI Brand Guidelines",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://www.figma.com/proto/l2aaMAZxjUAuQ9VBDqQA4x/REI-Brand-Hub?page-id=616%3A605&node-id=43%3A464&viewport=725%2C865%2C1.439374327659607&scaling=scale-down-width&hotspot-hints=0&hide-ui=1",
+                    "class": null,
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "type": "underline"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "blockType": "text-editor",
+  "size": null
+}

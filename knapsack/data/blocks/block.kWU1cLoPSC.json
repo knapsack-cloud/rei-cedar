@@ -1,0 +1,29 @@
+{
+  "id": "kWU1cLoPSC",
+  "data": {
+    "shortcuts": [
+      {
+        "id": "FTh7xnv0Qs",
+        "link": {
+          "path": "https://www.figma.com/proto/l2aaMAZxjUAuQ9VBDqQA4x/REI-Brand-Hub?page-id=616%3A605&node-id=43-464&viewport=725%2C865%2C1.439374327659607&scaling=scale-down-width&hotspot-hints=0&hide-ui=1",
+          "external": true
+        },
+        "image": "https://knapsack.imgix.net/site/rei-cedar/brand_examples-tpnpmjszc.jpeg",
+        "title": "Figma",
+        "description": "Brand guidelines - Color"
+      }
+    ],
+    "gridStyles": {
+      "columns": "2",
+      "centered": false
+    },
+    "tileStyles": {
+      "rounded": true,
+      "outlined": true,
+      "imageSize": "medium",
+      "titleSize": "xsmall"
+    }
+  },
+  "size": "small",
+  "blockType": "shortcut-tiles"
+}
